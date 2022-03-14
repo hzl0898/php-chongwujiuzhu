@@ -3,3 +3,4 @@ php流浪动物救助公益平台宠物领养救助管理系统，采用layui、
 # 网站截图
 ![image](https://github.com/hzl0898/php-chongwujiuzhu/blob/main/images/前台首页.png)
 ![image](https://github.com/hzl0898/php-chongwujiuzhu/blob/main/images/后台领养动物管理.png)
+![image](https://github.com/hzl0898/php-chongwujiuzhu/blob/main/后台爱心捐赠管理.png)
